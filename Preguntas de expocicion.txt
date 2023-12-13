@@ -1,0 +1,80 @@
+bienvenido al archivo de el deber:
+1) ¿Cuál de las siguientes es una característica principal de la Programación Orientada a Objetos (POO)?
+A) Encapsulación 
+B) Herencia 
+C) Polimorfismo 
+D) Todas las anteriores 
+
+Answer: D
+
+2) ¿Qué es una clase en el contexto de la POO?
+A) Un objeto 
+B) Un atributo 
+C) Un método 
+D) Un modelo o plantilla para crear objetos 
+
+Answer: D
+
+3) ¿Qué es un objeto en la POO?
+A) Una instancia de una clase con sus propios atributos y comportamientos 
+B) Un conjunto de métodos 
+C) Una estructura de datos 
+D) Un tipo de dato 
+
+Answer: A
+
+4) ¿Qué es la herencia en la POO?
+A) El mecanismo mediante el cual una clase puede heredar atributos y comportamientos de otra clase 
+B) La capacidad de una clase para ocultar su implementación interna 
+C) La forma en que los objetos se comunican entre sí 
+D) La capacidad de una clase para tener multiples instancias 
+
+Answer: A
+
+5) ¿Cuál de los siguientes conceptos es parte del encapsulamiento en la POO?
+A) Ocultamiento de la información interna de un objeto 
+B) Comunicación entre objetos 
+C) Creación de instancias de objetos 
+D) Acceso a los métodos de una clase 
+
+Answer: A
+
+6) ¿Qué es el polimorfismo en la POO?
+A) La capacidad de una clase para tener múltiples formas o comportamientos 
+B) La capacidad de una clase para ocultar su implementación interna 
+C) La forma en que los objetos se comunican entre sí 
+D) La capacidad de una clase para tener multiples instancias 
+
+Answer: A
+
+7) ¿Cuál es el objetivo principal de la herencia en la POO?
+A) Reutilizar el código 
+B) Mejorar el rendimiento del programa 
+C) Facilitar la comunicación entre objetos 
+D) Facilitar la creación de instancias de objetos 
+
+Answer: A
+
+8) ¿Qué es el encapsulamiento en la POO?
+A) El ocultamiento de los detalles internos de un objeto y la exposición controlada de su interfaz 
+B) La comunicación entre objetos 
+C) La creación de instancias de objetos 
+D) El acceso a los métodos de una clase 
+
+Answer: A
+
+9) ¿Cuál es uno de los principios básicos de la POO?
+A) Abstracción 
+B) Modularidad 
+C) Iteración 
+D) Aleatoriedad 
+
+Answer: A
+
+10) ¿Qué es la abstracción en la POO?
+A) El proceso de identificar las características esenciales de un objeto y omitir los detalles irrelevantes 
+B) El método utilizado para dividir un programa en módulos más pequeños y manejables 
+C) La forma en que los objetos se comunican entre sí 
+D) La capacidad de una clase para tener multiples instancias 
+
+Answer: A
